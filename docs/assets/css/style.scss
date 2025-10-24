@@ -53,8 +53,29 @@ th, td {
 }
 
 @font-face {
-  font-family: FTSymbol;
+  ascent-override: 50%;
+  font-family: HullBoxes;
   src: url('FTSymbol.ttf');
+}
+
+@font-face {
+  ascent-override: 50%;
+  src: url('FTSymbol.ttf');
+}
+
+.hull-boxes {
+  outline: 1px dotted White;
+  font-family: HullBoxes;
+  font-size: 400%;
+  line-height: 20%;
+}
+
+.ssd-icons {
+  outline: 1px dotted White;
+  font-family: FTSymbol;
+  font-size: 400%;
+  line-height: 75%;
+  text-align: center;
 }
 
 .beam-batteries {

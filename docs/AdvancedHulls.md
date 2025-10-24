@@ -1,4 +1,29 @@
 Advanced Hulls
 --------------
 
+By default ship <span class='hull-boxes'>j</span>hull boxes are arranged in four rows, and ships make threshold checks at 6+, 5+, and 4+ before being fully destroyed. Advanced hull integrity technology makes a hull effectively "harder". Ships built with advanced hulls have <span class='hull-boxes'>j</span>hull boxes arranged in three rows, delaying the first threshold check and only making threshold checks at 6+ and 5+.
 
+Normal hull with 14 hull integrity boxes:
+
+<div class='ssd-icons'>
+‐^=C<br>
+‐^=B‐^=B
+</div>
+<div class='hull-boxes'>
+jjj<br>
+jjj<br>
+jjjj<br>
+jjjj
+</div>
+<div class='ssd-icons'>
+&gt;<br>
+&lt;6
+</div>
+
+Advanced hull with 14 hull integrity boxes:
+
+<div class='hull-boxes'>
+jjjj<br>
+jjjjj<br>
+jjjjj
+</div>
