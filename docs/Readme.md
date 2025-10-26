@@ -11,7 +11,7 @@ Standard Systems
 * [FTL Systems](FtlSystems)
 * [Needle Systems](NeedleSystems)
 * [Normal Drives](NormalDrives)
-* [Torpedoes](Torpedoes)
+* [Torpedo Systems](Torpedoes)
 * [Railguns](Railguns)
 
 Advanced Systems
@@ -27,6 +27,7 @@ Links
 -----
 
 * [AnyDice](https://anydice.com/)
+* [Battlestar Galactica Technical Manual](http://www.tecr.com/galactica/)
 * [Full Thrust Fleet Resource](https://fullthrust.star-ranger.com/index.htm)
 * [Hugh's Full Thrust Pages](https://laranzu.id.au/fullthrust/)
 * [Weapons & Defences Archive](https://nift.firedrake.org/Weap-Def_Archive.htm)
