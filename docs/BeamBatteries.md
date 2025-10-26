@@ -78,39 +78,43 @@ Symbols:
      version="1.1"
      viewBox='0 0 100 100'
      xmlns="http://www.w3.org/2000/svg">
-  <circle cx='50' cy='50' r='30' stroke='Tan' stroke-width='5' fill='none' />
-  <!-- fore arc -->
-  <line x1='50' y1='20' x2='50' y2='0' stroke='Tan' stroke-width='5' />
-  <text x='50%' y='50%'
-        fill='currentColor'
+  <g fill='currentColor' stroke='currentColor' stroke-width='5'>
+    <circle cx='50' cy='50' r='30' fill='none' />
+    <!-- fore arc -->
+    <line x1='50' y1='20' x2='50' y2='0' />
+    <text x='50%' y='50%'
+        dominant-baseline='middle'
         font-family='sans-serif'
         font-size='300%'
         font-weight='bold'
-        dominant-baseline='middle'
+        stroke-width='1'
         text-anchor='middle'>
     3
-  </text>
+    </text>
+  </g>
 </svg>
 
 <svg class='ssd-symbol'
      version="1.1"
      viewBox='0 0 100 100'
      xmlns="http://www.w3.org/2000/svg">
-  <circle cx='50' cy='50' r='30' stroke='Tan' stroke-width='5' fill='none' />
-  <!-- fore arcs -->
-  <line x1='22' y1='34' x2='6' y2='25' stroke='Tan' stroke-width='5' />
-  <line x1='50' y1='20' x2='50' y2='0' stroke='Tan' stroke-width='5' />
-  <!-- aft arcs -->
-  <line x1='22' y1='66' x2='6' y2='75' stroke='Tan' stroke-width='5' />
-  <text x='50%' y='50%'
-        fill='currentColor'
+  <g fill='currentColor' stroke='currentColor' stroke-width='5'>
+    <circle cx='50' cy='50' r='30' fill='none' />
+    <!-- fore arcs -->
+    <line x1='22' y1='34' x2='6' y2='25' />
+    <line x1='50' y1='20' x2='50' y2='0' />
+    <!-- aft arcs -->
+    <line x1='22' y1='66' x2='6' y2='75' />
+    <text x='50%' y='50%'
+        dominant-baseline='middle'
         font-family='sans-serif'
         font-size='300%'
         font-weight='bold'
-        dominant-baseline='middle'
+        stroke-width='1'
         text-anchor='middle'>
     2
-  </text>
+    </text>
+  </g>
 </svg>
 
 <svg class='ssd-symbol'

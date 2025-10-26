@@ -5,19 +5,11 @@ By default ship <span class='hull-boxes'>j</span>hull boxes are arranged in four
 
 Normal hull with 14 hull integrity boxes:
 
-<div class='ssd-icons'>
-‐^=C<br>
-‐^=B‐^=B
-</div>
 <div class='hull-boxes'>
 jjj<br>
 jjj<br>
 jjjj<br>
 jjjj
-</div>
-<div class='ssd-icons'>
-&gt;<br>
-&lt;6
 </div>
 
 Advanced hull with 14 hull integrity boxes:

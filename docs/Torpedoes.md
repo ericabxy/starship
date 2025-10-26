@@ -1,5 +1,5 @@
-Torpedoes
----------
+Torpedo Systems
+---------------
 
 Fires a bolt of plasma at one target. Chance to hit depends on range to target.
 
