@@ -1,12 +1,12 @@
 Advanced Screens
 ----------------
 
-While normal [defensive screens](DefensiveScreens) are only designed to disrupt and dampen incoming [beam battery](BeamBatteries) fire, advanced screens are also able to deflect and intercept physical projectiles. This makes them effective against weapons that normally ignore or punch through less advanced screens.
+Advanced screens employ a type of "smart" or [reactive armor](https://en.wikipedia.org/wiki/Reactive_armour) designed to intercept and deflect physical projectiles. This makes them effective against weapons that normally ignore or punch through less advanced screens.
 
 Against Batteries
 -----------------
 
-Advanced screens work as normal defensive screens against beam batteries and advanced batteries.
+Advanced screens work as normal [defensive screens](ScreenGenerator) against [beam batteries](BeamBattery) and [advanced batteries](AdvancedBattery).
 
 Against Submuntions
 -------------------
@@ -24,7 +24,7 @@ Advanced screens affect submunitions as if they were beams, taking fewer hits de
 Against Torpedoes
 -----------------
 
-Advanced screens do not affect the hit rate of [torpedoes](Torpedoes), but they do reduce the damage inflicted by successful hits.
+Advanced screens do not affect the hit rate of [torpedoes](TorpedoSystem), but they do reduce the damage inflicted by successful hits.
 
 **Torpedo damage against advanced screens:**
 
@@ -39,7 +39,7 @@ Advanced screens do not affect the hit rate of [torpedoes](Torpedoes), but they 
 
 Against Railguns
 -----------------
-Advanced screens reduce the chance of taking double damage from a [railgun](Railguns#advanced-screens) hit.
+Advanced screens reduce the chance of taking double damage from a [railgun](RailgunSystem#advanced-screens) hit.
 
 **Railgun damage against advanced screens:**
 

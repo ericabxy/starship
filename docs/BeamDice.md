@@ -1,20 +1,38 @@
 Beam Dice
 ---------
 
-Can be abbreviated nBD where n is the number of dice rolled. For example, a Class 3 beam battery rolls 3BD at close range, 2BD at medium range, and 1BD at long range. Although these weapons refer to the amount of damage done as a result of rolling dice, its also possible to read the results as the _number of hits_ scored. In such a case standard beam batteries deal exactly 1 damage point per hit scored, and other ship systems may do something different on a per-hit basis.
+The term "Beam Dice" (BD) refers six-sided dice rolled and read according to the probability chart below. [Beam batteries](BeamBattery) are the most common ship-to-ship weapon and combat is centered around rolling and reading dice in this standard way. The batteries deal an amount of damage by scoring a number of "hits", and each hit deals exactly **one** damage point. 
 
 | Every 1, 2, or 3 rolled | No hits
 | Every 4 or 5 rolled     | One hit
 | Every 6 rolled          | Two hits
 
-The hit results of beam dice can be enhanced or degraded. The table below defines the full range of effects possible by normal, screened, and improved beam dice results.
+Using the same probability chart, other systems can do something else with "hits" for variety. For example [advanced battery](AdvancedBattery) systems score a number of hits, but deal **1D6** damage points per hit. An EMP gun might deal no damage points, but induce threshhold damage at a level determined by the number of hits scored.
 
-Defensive screens reduce the number of hits by one or two grades on the table below (see columns Screen-1 and Screen-2). Interceptors and attack fighters both score hits at the maximum enhancement on the table (see column Grade-2). Level+1 is not used by any known conditions or weapon systems.
+Degradation
+-----------
 
-| Results        | Level+2  | Level+1  | Level 0  | Level-1  | Level-2 | Level-3
-| Every 1 rolled | ---      | ---      | ---      | ---      | ---     | ---
-| Every 2 rolled | ---      | ---      | ---      | ---      | ---     | ---
-| Every 3 rolled | One hit  | ---      | ---      | ---      | ---     | ---
-| Every 4 rolled | One hit  | One hit  | One hit  | ---      | ---     | ---
-| Every 5 rolled | Two hits | Two hits | One hit  | One hit  | One hit | ---
-| Every 6 rolled | Two hits | Two hits | Two hits | Two hits | One hit | One hit
+The effectiveness of beam dice can be degraded to represent the effectiveness of defenses, or the ineffectiveness of lesser weapons. [Defensive screens](ScreenGenerator) reduce the amount of hits taken by beam dice to Grade --1 or Grade --2, and [point defense systems](PointDefenseSystem) are so poor at anti-ship fire that they hit at Grade --3.
+
+|                | Grade 0  | Grade --1 | Grade --2 | Grade --3
+| -------------- | -------- | --------- | --------- | ---
+| Every 1 rolled | ---      | ---       | ---       | ---
+| Every 2 rolled | ---      | ---       | ---       | ---
+| Every 3 rolled | ---      | ---       | ---       | ---
+| Every 4 rolled | One hit  | ---       | ---       | ---
+| Every 5 rolled | One hit  | One hit   | One hit   | ---
+| Every 6 rolled | Two hits | Two hits  | One hit   | One hit
+
+Enhancement
+-----------
+
+Beam dice hits can also be enhanced to represent favorable conditions or specialized technology. [Attack fighters](FighterGroup#attack) employ ship-killing weapons and make attack runs at Grade ++2.
+
+|                | Grade 0  | Grade ++1 | Grade ++2 | Grade ++3
+| -------------- | -------- | --------- | --------- | ---
+| Every 1 rolled | ---      | ---       | ---       | ---
+| Every 2 rolled | ---      | ---       | ---       | ---
+| Every 3 rolled | ---      | ---       | One hit   | One hit
+| Every 4 rolled | One hit  | One hit   | One hit   | Two hits
+| Every 5 rolled | One hit  | Two hits  | Two hits  | Two hits
+| Every 6 rolled | Two hits | Two hits  | Two hits  | Two hits

@@ -1,33 +1,39 @@
 * [Beam Dice](BeamDice)
+* [Projectile Dice](ProjectileDice)
 * [Range and Bearing](RangeAndBearing)
 * [Ship Classes Using FTSymbol Font](ShipClasses)
 
 Standard Systems
 ----------------
 
-* [Beam Batteries](BeamBatteries)
-* [Defensive Screens](DefensiveScreens)
-* [Fire Control](FireControl)
-* [FTL Systems](FtlSystems)
-* [Needle Systems](NeedleSystems)
-* [Normal Drives](NormalDrives)
-* [Torpedo Systems](Torpedoes)
-* [Railguns](Railguns)
+* [Beam Battery](BeamBattery)
+* [Damage Control](DamageControl)
+* [Screen Generator](ScreenGenerator)
+* [Fire Control (FireCon) System](FireControlSystem)
+* [Faster-Than-Light (FTL) System](FasterThanLightDrive)
+* [Missile](MissileCraft)
+* [Needle System](NeedleSystem)
+* [Normal Space Drive](NormalSpaceDrive)
+* [Submunitions](Submunitions)
+* [Torpedo System](TorpedoSystem)
 
 Advanced Systems
 ----------------
 
+* [Ablative Armor](AblativeArmor)
 * [Advanced Hulls](AdvancedHulls)
 * [Advanced Drives](AdvancedDrives)
 * [Advanced FTL](AdvancedFtl)
 * [Advanced Screens](AdvancedScreens)
-* [Advanced Batteries](AdvancedBatteries)
+* [Advanced Batteries](AdvancedBattery)
+* [Railgun](RailgunSystem)
 
 Links
 -----
 
 * [AnyDice](https://anydice.com/)
 * [Battlestar Galactica Technical Manual](http://www.tecr.com/galactica/)
+* [Emerald Coast Skunk Works - Full Thrust Research and Development](https://emeraldcoastskunkworks.wordpress.com/)
 * [Full Thrust Fleet Resource](https://fullthrust.star-ranger.com/index.htm)
 * [Hugh's Full Thrust Pages](https://laranzu.id.au/fullthrust/)
 * [Weapons & Defences Archive](https://nift.firedrake.org/Weap-Def_Archive.htm)

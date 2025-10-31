@@ -24,6 +24,14 @@ a {
   color: Coral;
 }
 
+a[href^='https://en.wikipedia.org/']::after {
+  content: '\2197\0020';
+  font-size: .8em;
+  margin-left: .2em;
+  vertical-align: super;
+  white-space: nowrap;
+}
+
 li a:only-child {
   background-color: DarkBlue;
   border: 1px solid White;
@@ -61,6 +69,98 @@ th, td {
 @font-face {
   ascent-override: 50%;
   src: url('FTSymbol.ttf');
+}
+
+.ship-diagram {
+  border: 2px solid tan;
+  border-radius: 5px;
+  display: inline-block;
+}
+
+.ship-diagram__screen-generator {
+  background-image: url('screen-generator.svg');
+  color: tan;
+  display: inline-block;
+  width: 3em;
+  height: 3em;
+}
+
+.beam-battery {
+  background-image: url('beam-all-arc.svg');
+  color: tan;
+  display: inline-block;
+  height: 3em;
+  text-align: center;
+  width: 3em;
+}
+
+.beam-battery--1-arc {
+  background-image: url('beam-1-arc.svg');
+}
+
+.beam-battery--3-arc {
+  background-image: url('beam-3-arc.svg');
+}
+
+.beam-battery__class {
+  font-family: sans-serif;
+  font-size: 1.5em;
+  font-weight: bold;
+  line-height: 2em;
+}
+
+.beam-battery.-fs {
+  rotate: 60deg;
+}
+
+.beam-battery.-as {
+  rotate: 120deg;
+}
+
+.beam-battery.-aft {
+  rotate: 180deg;
+}
+
+.beam-battery.-ap {
+  rotate: 240deg;
+}
+
+.beam-battery.-fp {
+  rotate: 300deg;
+}
+
+.beam-battery.-fs .beam-battery__class {
+  rotate: -60deg;
+}
+
+.beam-battery.-as .beam-battery__class {
+  rotate: -120deg;
+}
+
+.beam-battery.-aft .beam-battery__class {
+  rotate: -180deg;
+}
+
+.beam-battery.-ap .beam-battery__class {
+  rotate: -240deg;
+}
+
+.beam-battery.-fp .beam-battery__class {
+  rotate: -300deg;
+}
+
+.fire-control-system {
+  background-image: url('fire-control-system.svg');  
+  display: inline-block;
+  height: 3em;
+  width: 3em;
+}
+
+.submunitions-pack {
+  background-image: url('submunitions-pack.svg');  
+  display: inline-block;
+  height: 3em;
+  width: 3em;
 }
 
 .hull-boxes {
@@ -113,11 +213,6 @@ th, td {
   font-family: FTSymbol;
   font-size: 36pt;
   line-height: 50%;
-}
-
-.ship-diagram {
-  border: 1px solid Tan;
-  display: inline-block;
 }
 
 .ssd-symbol {
