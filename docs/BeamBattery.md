@@ -88,3 +88,8 @@ Design Costs
 | Class 3 Battery | 3    | 4 points + 3/arc
 | Class 4 Battery | 5    | 5 points + 4/arc
 | Class 5 Battery | 8    | 6 points + 5/arc
+
+Penetrating Damage
+------------------
+
+Ships using the old design rules tend to have far fewer hull boxes, so standard batteries do not re-roll sixes to deal extra damage in this game.
