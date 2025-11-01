@@ -25,10 +25,10 @@ Advanced Systems
 
 * [Ablative Armor](AblativeArmor)
 * [Advanced Hulls](AdvancedHulls)
-* [Advanced Drives](AdvancedDrive)
+* [Advanced Drive](AdvancedDrive)
 * [Advanced FTL](AdvancedFtl)
-* [Advanced Screens](AdvancedScreens)
-* [Advanced Batteries](AdvancedBattery)
+* [Advanced Screen](AdvancedScreen)
+* [Advanced Battery](AdvancedBattery)
 * [Railgun](RailgunSystem)
 
 Links

@@ -1,5 +1,5 @@
-Railguns
---------
+Railgun System
+--------------
 
 Electromagnetic accelerator fires solid penetrators at high velocity. The chance to hit a target is the same as [torpedo](Torpedo) weapons.
 
@@ -26,7 +26,7 @@ For each railgun projectile that hits, damage is dealt equal to the class of the
 Advanced Screens
 ----------------
 
-While standard defensive screens do not affect railgun hits or damage in any way, [advanced screens](AdvancedScreens#against-railguns) are able to reduce the chance of taking double damage.
+While standard defensive screens do not affect railgun hits or damage in any way, [advanced screens](AdvancedScreen#against-railguns) are able to reduce the chance of taking double damage.
 
 **Railgun damage against advanced screens:**
 
