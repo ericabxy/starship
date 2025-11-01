@@ -96,6 +96,13 @@ th, td {
   background-image: url('advanced-drive-thrust-8.svg');
 }
 
+.advanced-screen {
+  background-image: url('advanced-screen.svg');
+  display: inline-block;
+  height: 3em;
+  width: 3em;
+}
+
 .normal-space-drive {
   background-image: url('normal-space-drive.svg');
   display: inline-block;
@@ -220,4 +227,40 @@ th, td {
   color: Tan;
   width: 3em;
   height: 3em;
+}
+
+.torpedo-system {
+  background-image: url('torpedo-system.svg');
+  display: inline-block;
+  height: 3em;
+  margin: .2em;
+  width: 3em;
+}
+
+.torpedo-system--fore {
+  background-image: url('torpedo-system-fp-fwd-fs.svg');
+}
+
+.torpedo-system--port {
+  background-image: url('torpedo-system-ap-fp-fwd.svg');
+}
+
+.torpedo-system--starboard {
+  background-image: url('torpedo-system-fwd-fs-as.svg');
+}
+
+.torpedo-system--long-range {
+  background-image: url('torpedo-system-long-range.svg');
+}
+
+.torpedo-system--long-range-fore {
+  background-image: url('torpedo-system-long-range-fp-fwd-fs.svg');
+}
+
+.torpedo-system--long-range-port {
+  background-image: url('torpedo-system-long-range-ap-fp-fwd.svg');
+}
+
+.torpedo-system--long-range-starboard {
+  background-image: url('torpedo-system-long-range-fwd-fs-as.svg');
 }
