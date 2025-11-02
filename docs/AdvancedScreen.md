@@ -20,7 +20,7 @@ Symbols:
 Against Batteries
 -----------------
 
-Advanced screens work as normal [defensive screens](ScreenGenerator) against [beam batteries](BeamBattery) and [advanced batteries](AdvancedBattery).
+Advanced screens work as normal [defensive screens](ScreenGenerator) against [beam batteries](MainBattery) and [advanced batteries](AdvancedBattery).
 
 Against Submuntions
 -------------------

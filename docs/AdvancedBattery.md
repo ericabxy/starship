@@ -44,7 +44,7 @@ For _each hit_ scored, roll another D6 and consult the following table to determ
 Point Defense Mode
 ------------------
 
-Much like [standard batteries](BeamBattery), advanced batteries can operate in point defense mode.
+Much like [standard batteries](MainBattery), advanced batteries can operate in point defense mode.
 
 Needle Strike Mode
 ------------------
@@ -52,4 +52,9 @@ Needle Strike Mode
 Design Procedure
 ----------------
 
-
+| Battery       | Bearing      | Mass     | Points Cost
+| -------       | -------      | ----     | -----------
+| Class-1       | 6-arcs       | 2        | 6
+| Class-2       | 3-arcs       | 3        | 9
+| Class-3       | 1-arc        | 5        | 15
+| Class-4       | 1-arc        | 8        | 24

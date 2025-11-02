@@ -1,7 +1,7 @@
 Beam Dice
 ---------
 
-The term "Beam Dice" (BD) refers six-sided dice rolled and read according to the probability chart below. [Beam batteries](BeamBattery) are the most common ship-to-ship weapon and combat is centered around rolling and reading dice in this standard way. The batteries deal an amount of damage by scoring a number of "hits", and each hit deals exactly **one** damage point. 
+The term "Beam Dice" (BD) refers six-sided dice rolled and read according to the probability chart below. [Beam batteries](MainBattery) are the most common ship-to-ship weapon and combat is centered around rolling and reading dice in this standard way. The batteries deal an amount of damage by scoring a number of "hits", and each hit deals exactly **one** damage point. 
 
 | Every 1, 2, or 3 rolled | No hits
 | Every 4 or 5 rolled     | One hit

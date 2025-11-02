@@ -1,7 +1,7 @@
-Beam Battery
+Main Battery
 ------------
 
-Particle accelerator offensive weapon system. Several individual particle beam projectors are mounted in a "battery" that can fire on a single target within range and firing arc. See [Range and Bearing](RangeAndBearing) for details on how to find direction and distance to targets.
+This system represents a ship's principle offensive weaponry; the standard ship-to-ship weapons of whatever fiction the ship lives in. A single battery can represent several mounted barrels, emitters, or turrets working in tandem; or a single turreted weapon with one or more barrels/projectors. It is less effective at long range due to accuracy of firing solutions, spread of the individual projectiles/rays, etc. It can sometimes be partially countered by expensive defense technology that can absorb, disrupt, or deflect incoming projectiles/beams.
 
 Symbols:
 
@@ -17,7 +17,9 @@ Symbols:
 Rolling To Hit
 --------------
 
-To determine the effect of firing on a target, a number of dice are rolled depending on range. Class 3 batteries have a range of 36&Prime;. When firing at a range of 0-12&Prime;, three dice are rolled; at 12-24&prime;, two dice; and at 24-36&Prime;, one die. The following table shows the number of dice to roll indexed by battery class and range to target.
+See [Range and Bearing](RangeAndBearing) for details on how to find direction and distance to targets.
+
+To determine the effect of firing on a target, a number of dice are rolled depending on range. Class-3 batteries have a maximum range of 36&Prime;. When firing at a range of 0-12&Prime;, three dice are rolled; at 12-24&prime;, two dice; and at 24-36&Prime;, one die. The following table shows the number of dice to roll indexed by battery class and range to target.
 
 | Range      | Class 1 | Class 2 | Class 3 | Class 4 | Class 5
 | ---------- | ------- | ------- | ------- | ------- | -------
@@ -88,3 +90,8 @@ Design Procedure
 | __*Class-4*__ | __*1-arc*__  | __*5*__  | __*15*__---
 | Class-4       | 2-arc        | 8        | 24
 | __*Class-5*__ | __*1-arc*__  | __*8*__  | __*24*__
+
+External Links
+--------------
+
+[Main battery - Wikipedia](https://en.wikipedia.org/wiki/Main_battery)

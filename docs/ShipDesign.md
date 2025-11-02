@@ -14,7 +14,7 @@ The ship's [hull integrity](HullIntegrity) is the number of hull boxes or "hit p
 
 Most ships will need a [normal space drive](NormalSpaceDrive) and a [faster-than-light](FasterThanLightDrive) drive system. You are required to have at least one [fire control system](FireControlSystem), which is part of the ship's on-board computer and sensor systems. Our survey cruiser has a main drive rated Thrust-4, a faster-than-light drive, and one fire control system.
 
-All of the ship systems so far, as well as the structure of the ship, fuel tanks, crew accomodations, etc. take up 50% of the mass available, leaving the other 50% for you to fit additional systems as desired. The survey cruiser has 24 mass available, and as a research ship let's reserve 15 of that for [science facilities](CargoSpace#science). The remaining 9 mass is enough room to mount a superior sensor platform (mass 2), a [defensive screen](ScreenGenerator) generator (mass 3), two [point defense](PointDefenseSystem) systems (mass 2), and two Class-1 [batteries](BeamBattery) (mass 2).
+All of the ship systems so far, as well as the structure of the ship, fuel tanks, crew accomodations, etc. take up 50% of the mass available, leaving the other 50% for you to fit additional systems as desired. The survey cruiser has 24 mass available, and as a research ship let's reserve 15 of that for [science facilities](CargoSpace#science). The remaining 9 mass is enough room to mount a superior sensor platform (mass 2), a [defensive screen](ScreenGenerator) generator (mass 3), two [point defense](PointDefenseSystem) systems (mass 2), and two Class-1 [batteries](MainBattery) (mass 2).
 
 Civilian Systems
 ----------------
@@ -32,7 +32,7 @@ Civilian Systems
 Military Systems
 ----------------
 
-* [Beam Battery](BeamBattery)
+* [Main Battery](MainBattery)
 * [Fighter Group](FighterGroup)
 * [Missile System](MissileCraft)
 * [Needle System](NeedleSystem)
