@@ -68,7 +68,7 @@ th, td {
 }
 
 @font-face {
-  ascent-override: 50%;
+  font-family: FTSymbol;
   src: url('FTSymbol.ttf');
 }
 
@@ -208,6 +208,12 @@ th, td {
   font-size: 36pt;
   line-height: 90%;
   text-align: center;
+}
+
+.ftsymbol {
+  font-family: FTSymbol;
+  font-size: 300%;
+  line-height: 25%;
 }
 
 .main-drive {
