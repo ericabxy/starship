@@ -3,31 +3,6 @@ Beam Battery
 
 Particle accelerator offensive weapon system. Several individual particle beam projectors are mounted in a "battery" that can fire on a single target within range and firing arc. See [Range and Bearing](RangeAndBearing) for details on how to find direction and distance to targets.
 
-To determine the effect of firing on a target, a number of dice are rolled depending on range. Class 3 batteries have a range of 36&Prime;. When firing at a range of 0-12&Prime;, three dice are rolled; at 12-24&prime;, two dice; and at 24-36&Prime;, one die. The following table shows the number of dice to roll indexed by battery class and range to target.
-
-| Range      | Class 1 | Class 2 | Class 3 | Class 4
-| ---------- | ------- | ------- | ------- | -------
-| **0-12″**  | Roll 1D | Roll 2D | Roll 3D | Roll 4D
-| **12-24″** | ---     | Roll 1D | Roll 2D | Roll 3D
-| **24-36″** | ---     | ---     | Roll 1D | Roll 2D
-| **36-48″** | ---     | ---     | ---     | Roll 1D
-
-Damage is dealt according to the results of the dice. The target ship must cross off a number of <span class='hull-boxes'>j</span>hull boxes according to the total damage points generated as detailed in this table.
-
-| Results                 | Damage
-| ----------------------- | ------
-| Every 1, 2, or 3 rolled | No effect
-| Every 4 or 5 rolled     | One damage point
-| Every 6 rolled          | Two damage points
-
-Defensive [screens](ScreenGenerator) reduce the damage from beam batteries.
-
-| Results                    | Screen Level 1    | Screen Level 2
-| -------------------------- | ----------------- | --------------
-| Every 1, 2, 3, or 4 rolled | No effect         | No effect
-| Every 5 rolled             | One damage point  | One damage point
-| Every 6 rolled             | Two damage points | One damage point
-
 Symbols:
 
 <div class='ship-diagram'>
@@ -38,6 +13,40 @@ Symbols:
     <div class='beam-battery beam-battery--class-1'>
     </div>
 </div>
+
+Rolling To Hit
+--------------
+
+To determine the effect of firing on a target, a number of dice are rolled depending on range. Class 3 batteries have a range of 36&Prime;. When firing at a range of 0-12&Prime;, three dice are rolled; at 12-24&prime;, two dice; and at 24-36&Prime;, one die. The following table shows the number of dice to roll indexed by battery class and range to target.
+
+| Range      | Class 1 | Class 2 | Class 3 | Class 4
+| ---------- | ------- | ------- | ------- | -------
+| **0-12″**  | Roll 1D | Roll 2D | Roll 3D | Roll 4D
+| **12-24″** | ---     | Roll 1D | Roll 2D | Roll 3D
+| **24-36″** | ---     | ---     | Roll 1D | Roll 2D
+| **36-48″** | ---     | ---     | ---     | Roll 1D
+
+Dealing Damage
+--------------
+
+Damage is dealt according to the results of the dice. The target ship must cross off a number of <span class='hull-boxes'>j</span>hull boxes according to the total damage points generated as detailed in this table.
+
+| Results                 | Damage
+| ----------------------- | ------
+| Every 1, 2, or 3 rolled | No effect
+| Every 4 or 5 rolled     | One damage point
+| Every 6 rolled          | Two damage points
+
+Against Screens
+---------------
+
+Defensive [screens](ScreenGenerator) reduce the damage from beam batteries.
+
+| Results                    | Screen Level 1    | Screen Level 2
+| -------------------------- | ----------------- | --------------
+| Every 1, 2, 3, or 4 rolled | No effect         | No effect
+| Every 5 rolled             | One damage point  | One damage point
+| Every 6 rolled             | Two damage points | One damage point
 
 Class-1 Point Defense Mode
 --------------------------
