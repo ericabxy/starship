@@ -1,38 +1,19 @@
+Introduction
+------------
+
+_Full Thrust_ is a sci-fi wargaming rule system with simple procedures for designing balanced starships and conducting various space combat and operation scenarios.
+
+### Design
+
+The ship design system centers around the concept of a generic MASS unit allowing you to know exactly how much technology you can fit on a certain size and class of ship. Even before playing, you can review the [ship design rules](ShipDesign) to get a feel for what kinds of starships you can field during gameplay.
+
+### Gameplay
+
+The game is played on a flat surface a few feet to a side and ships can move and interact with each other based on a standard unit of measurement (typically inches). The outcomes of various decisions (especialy firing weapons if in a combat scenario) are determined by rolling and reading six-sided dice (or "D6").
+
 * [Beam Dice](BeamDice)
 * [Projectile Dice](ProjectileDice)
 * [Range and Bearing](RangeAndBearing)
-* [Ship Classes Using FTSymbol Font](ShipClasses)
-
-Standard Systems
-----------------
-
-* [Beam Battery](BeamBattery)
-* [Cargo Space](CargoSpace)
-* [Damage Control](DamageControl)
-* [Screen Generator](ScreenGenerator)
-* [Faster-Than-Light (FTL) System](FasterThanLightDrive)
-* [Fighter Group](FighterGroup)
-* [Fire Control (FireCon) System](FireControlSystem)
-* [Hangar Bay](HangarBay)
-* [Hull Integrity](HullIntegrity)
-* [Missile](MissileCraft)
-* [Needle System](NeedleSystem)
-* [Normal Space Drive](NormalSpaceDrive)
-* [Point Defense System](PointDefenseSystem)
-* [Submunitions](Submunitions)
-* [Torpedo System](TorpedoSystem)
-
-Advanced Systems
-----------------
-
-* [Ablative Armor](AblativeArmor)
-* [Advanced Hulls](AdvancedHulls)
-* [Advanced Drive](AdvancedDrive)
-* [Advanced FTL](AdvancedFtl)
-* [Advanced Screen](AdvancedScreen)
-* [Advanced Battery](AdvancedBattery)
-* [Mega Battery](MegaBattery)
-* [Railgun System](RailgunSystem)
 
 Links
 -----
