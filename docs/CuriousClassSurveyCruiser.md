@@ -14,7 +14,7 @@ _Mass available for remaining systems:_ 24
 
 15 &times; Scientific research [cargo space](CargoSpace) (mass 15)
 
-2 &times; Superior sensor platform (mass 2)
+1 &times; Superior sensor platform (mass 2)
 
 1 &times; [Screen generator](ScreenGenerator) (mass 3)
 
