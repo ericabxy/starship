@@ -43,11 +43,12 @@ Advanced Systems
 ----------------
 
 * [Ablative Armor](AblativeArmor)
-* [Advanced Hulls](AdvancedHulls)
-* [Advanced Drive](AdvancedDrive)
-* [Advanced FTL](AdvancedFtl)
-* [Advanced Screen](AdvancedScreen)
 * [Advanced Battery](AdvancedBattery)
+* [Advanced Drive](AdvancedDrive)
+* [Advanced Fire Control](AdvancedFireControl)
+* [Advanced FTL](AdvancedFtl)
+* [Advanced Hull](AdvancedHulls)
+* [Advanced Screen](AdvancedScreen)
 * [Mega Battery](MegaBattery)
 * [Railgun System](RailgunSystem)
 

@@ -44,17 +44,16 @@ For _each hit_ scored, roll another D6 and consult the following table to determ
 Point Defense Mode
 ------------------
 
-Much like [standard batteries](MainBattery), advanced batteries can operate in point defense mode. In the case of this system in particular ANY class of advanced battery can be fired in this way, it rolls for hits as a SINGLE [point defense system](PointDefenseSystem) using the unmodified table, and does NOT require a [FireCon](FireControlSystem) dedicated to its target.
+Much like [standard batteries](MainBattery), advanced batteries can operate in point defense mode, however ANY class of advanced battery can be fired in this way (not just Class-1). It rolls for hits as a SINGLE [point defense system](PointDefenseSystem) using the unmodified table, and does NOT require a [FireCon](FireControlSystem) dedicated to its target.
 
-| Results...
-| Every 1, 2, or 3 rolled | No hits
-| Every 4 or 5 rolled     | One fighter or missile killed
-| Every 6 rolled          | Two fighters or missiles killed
+| Every **1**, **2**, or **3** rolled | No hits
+| Every **4** or **5** rolled         | **One** fighter or missile killed
+| Every **6** rolled                  | **Two** fighters or missiles killed
 
 An advanced battery used in this mode cannot by used in anti-ship mode in the same turn. It follows the same rules as a normal PDS against tougher enemies like [missile craft](MissileCraft), [heavy-type fighter groups](FighterGroup#heavy-fighters), etc..
 
-Needle Strike Mode
-------------------
+Needle Mode
+-----------
 
 To be determined once Advanced Fire Control systems are added.
 

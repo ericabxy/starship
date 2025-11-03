@@ -17,6 +17,13 @@ Symbols:
   </div>
 </div>
 
+<div class='ship-diagram'>
+  <div class='advanced-screen advanced-screen--alt'>
+  </div>
+</div>
+
+The alternate icon above is designed to make it easier to tell the difference between standard and advanced screen generators if you are drawing the symbol by hand with pen and paper.
+
 Against Batteries
 -----------------
 
@@ -29,11 +36,11 @@ Advanced screens affect submunitions as if they were beams, taking fewer hits de
 
 **Submunitions damage against advanced screens:**
 
-| Results                    | Screen Level 1        | Screen Level 2
-| -------------------------- | --------------------- | --------------
-| Every 1, 2, 3, or 4 rolled | None                  | None
-| Every 5 rolled             | **One** damage point  | **One** damage point
-| Every 6 rolled             | **Two** damage points | **One** damage point
+| Results                                    | Screen Level 1        | Screen Level 2
+| -------                                    | --------------------- | --------------
+| Every **1**, **2**, **3**, or **4** rolled | No effect             | No effect
+| Every **5** rolled                             | **One** damage point  | **One** damage point
+| Every **6** rolled                             | **Two** damage points | **One** damage point
 
 Against Torpedoes
 -----------------
@@ -42,14 +49,14 @@ Advanced screens do not affect the hit rate of [torpedoes](TorpedoSystem), but t
 
 **Torpedo damage against advanced screens:**
 
-| Result       | Screen Level 1     | Screen Level 2
-| ------------ | ------------------ | --------------
-| **1** rolled | None               | None
-| **2** rolled | **One** point      | None
-| **3** rolled | **Two** points     | **One** point
-| **4** rolled | **Three** points   | **Two** points
-| **5** rolled | **Four** points    | **Three** points
-| **6** rolled | **Five** points    | **Four** points
+| Result       | Screen Level 1            | Screen Level 2
+| ------------ | --------------            | --------------
+| **1** rolled | No effect                 | No effect
+| **2** rolled | **One** damage point      | No effect
+| **3** rolled | **Two** damage points     | **One** damage point
+| **4** rolled | **Three** damage points   | **Two** damage points
+| **5** rolled | **Four** damage points    | **Three** damage points
+| **6** rolled | **Five** damage points    | **Four** damage points
 
 Against Railguns
 -----------------
