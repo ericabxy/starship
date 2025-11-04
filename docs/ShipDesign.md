@@ -32,8 +32,9 @@ Civilian Systems
 Military Systems
 ----------------
 
-* [Main Battery](MainBattery)
+* [Distortion Missile](DistortionMissile)
 * [Fighter Group](FighterGroup)
+* [Main Battery](MainBattery)
 * [Missile System](MissileCraft)
 * [Needle System](NeedleSystem)
 * [Submunitions](Submunitions)
