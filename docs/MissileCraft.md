@@ -1,24 +1,23 @@
 Missile Craft
 -------------
 
-Missiles are small, fast, unmanned spacecraft with combat payloads and onboard A.I. that can pursue and attack capital ships.
+_Under Construction:_ This weapon system is in-development, combining similar and overlapping mechanics of the _More Thrust_ missile, fighter groups, the _Fleet Book 1_ missile system, and later refinements to all of the above.
 
-Launching
----------
+Missiles are small, fast, unmanned spacecraft with combat payloads and onboard A.I. used to pursue and damage capital ships.
 
-A missile is launched just like a fighter.
+### Launching
 
-Moving
-------
+A missile is launched in a similar way to a fighter group. Immediately after launch it can move up to 18&Prime; in a direction within 180&deg; of the direction the launching ship is facing.
 
-Move up to 18" each turn, within 60 degrees of the missile's current heading, for up to THREE turns. 
+### Moving
 
-Attacking
----------
+The missile can stay in flight up to three turns including the turn it launched and moved. During each subsequent turn it can move an additional 18&Prime; in a direction within 60&Prime; of its current heading.
 
-If any ships end their movement within 3&Prime; of an enemy missile, the missile will attack the nearest enemy ship. The ship's [point defense](PointDefenseSystem) systems may attempt to shoot down the missile before it hits.
+### Attacking
 
-The missile is heavily armored and is treated as if it had Grade--2 defensive screens.
+The missile makes an attack run on the nearest enemy ship within 3 &Prime; of it. At this point the ship's [point defense](PointDefenseSystem) systems can attempt to shoot it down before it strikes true.
+
+Missiles are heavily armored and treated as having Level-2 defensive screens when it comes to PDS fire.
 
 | Roll results | Effect
 | ------------ | ------
