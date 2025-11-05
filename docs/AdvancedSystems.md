@@ -18,7 +18,7 @@ Advanced Systems
 * [Advanced Drive](AdvancedDrive)
 * [Advanced Fire Control](AdvancedFireControl)
 * [Advanced FTL](AdvancedFtl)
-* [Advanced Hull](AdvancedHulls)
+* [Advanced Hull](AdvancedHull)
 * [Advanced Screen](AdvancedScreen)
 * [Mega Battery](MegaBattery)
 * [Railgun System](RailgunSystem)

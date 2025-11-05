@@ -33,6 +33,3 @@ These documents standardize on a variation of the "merchant" ship design rules f
 - Tugs purchase oversize FTL systems that work a lot like cargo space. They are indicated by up to four boxes with the [FTL drive](FasterThanLightDrive) symbol and a number indicating that space's towing capacity. FTL towing capacity costs 2 points per mass of towing power, to a maximum of the ship's own mass, and should be split evenly between the four boxes.
 
 *[FTL]: Faster Than Light
-
-
-which standardizes some things across ship sizes like the cost of the [main drive](NormalSpaceDrive) and the number of hull rows. Unlike the merchant rules however, you are not limited to 10% of mass for ship systems; it is assumed actual merchant ships dedicate 40% of available mass to [cargo space](CargoSpace) and you are free to fit other systems if desired.
