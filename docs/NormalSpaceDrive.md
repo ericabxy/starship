@@ -7,39 +7,27 @@ During the movement phase, the normal drive can accelerate the ship forward any 
 
 Symbols:
 
-<svg class='ssd-symbol' version="1.1" viewBox='0 0 100 100' xmlns="http://www.w3.org/2000/svg">
-  <g fill='none' stroke='currentColor' stroke-width='5'>
-    <path d='M 50 2.5 L 97.5 30 V 80 H 2 V 30 Z' />
-    <text x='50%' y='50%' dominant-baseline='middle' fill='currentColor' font-family='sans-serif' font-size='300%' font-weight='bold' stroke-width='1' text-anchor='middle'>2</text>
-  </g>
-</svg>
-
-<svg class='ssd-symbol' version="1.1" viewBox='0 0 100 100' xmlns="http://www.w3.org/2000/svg">
-  <g fill='none' stroke='currentColor' stroke-width='5'>
-    <path d='M 50 2.5 L 97.5 30 V 80 H 2 V 30 Z' />
-    <text x='50%' y='50%' dominant-baseline='middle' fill='currentColor' font-family='sans-serif' font-size='300%' font-weight='bold' stroke-width='1' text-anchor='middle'>4</text>
-  </g>
-</svg>
-
-<svg class='ssd-symbol' version="1.1" viewBox='0 0 100 100' xmlns="http://www.w3.org/2000/svg">
-  <g fill='none' stroke='currentColor' stroke-width='5'>
-    <path d='M 50 2.5 L 97.5 30 V 80 H 2 V 30 Z' />
-    <text x='50%' y='50%' dominant-baseline='middle' fill='currentColor' font-family='sans-serif' font-size='300%' font-weight='bold' stroke-width='1' text-anchor='middle'>6</text>
-  </g>
-</svg>
-
-<svg class='ssd-symbol' version="1.1" viewBox='0 0 100 100' xmlns="http://www.w3.org/2000/svg">
-  <g fill='none' stroke='currentColor' stroke-width='5'>
-    <path d='M 50 2.5 L 97.5 30 V 80 H 2 V 30 Z' />
-    <text x='50%' y='50%' dominant-baseline='middle' fill='currentColor' font-family='sans-serif' font-size='300%' font-weight='bold' stroke-width='1' text-anchor='middle'>8</text>
-  </g>
-</svg>
+<div class='ship-diagram'>
+  <div class='normal-space-drive normal-space-drive--thrust-2'></div>
+</div>
+<div class='ship-diagram'>
+  <div class='normal-space-drive normal-space-drive--thrust-4'></div>
+</div>
+<div class='ship-diagram'>
+  <div class='normal-space-drive normal-space-drive--thrust-6'></div>
+</div>
+<div class='ship-diagram'>
+  <div class='normal-space-drive normal-space-drive--thrust-8'></div>
+</div>
 
 Design Procedure
 ----------------
 
-__Mass:__ A ship's normal drive is part of the 50% reserved for essential systems, so it does not cost any additional mass like other systems do. _Experimental:_ A normal drive is limited to a maximum thrust rating of __8__.
+__Mass:__ A ship's normal drive is part of the 50% reserved for essential systems, so it does not cost any additional mass like other systems do. A normal drive is limited to a maximum thrust rating of __8__.
 
 __Points Cost:__ Every one unit of thrust costs a number of points equal to the ship's total mass.
 
-__Experimental:__ Since a ship's normal drive takes two threshold failures or needle strikes to be fully disabled, you can---if desired---record this as _two_ separate drive symbols on the ship diagram, each with _half_ the total thrust rating. The total thrust available per turn is equal to the total of each remaining operational drive symbol, and they are still targeted as a single system by threshold checks and needle attacks.
+Notes
+-----
+
+A ship (or immobile installation) with no normal space drive system must be fitted with a power generation system and long-term life support systems, so it doesn't get any extra space like a ship without an [FTL drive](FasterThanLightDrive#non-ftl-ships) does. The non-propulsion power plant has no extra cost---it is included in the initial cost for the hull.

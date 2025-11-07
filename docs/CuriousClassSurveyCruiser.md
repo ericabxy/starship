@@ -10,14 +10,12 @@ __Faster-than-light Systems:__ Standard
 
 __Thrust Rating:__ 4
 
-_Mass available for remaining systems:_ 24
+_Mass available for remaining systems:_ 24 (19 cargo max)
 
-15 &times; Scientific research [cargo space](CargoSpace) (mass 15)
+19 &times; Scientific research [cargo space](CargoSpace) (mass 19)
 
 1 &times; Superior sensor platform (mass 2)
 
-1 &times; [Screen generator](ScreenGenerator) (mass 3)
-
 2 &times; [Point defense systems](PointDefenseSystem) (mass 2)
 
-2 &times; Class-1 [batteries](MainBattery) (mass 2)
+1 &times; Class-1 [batteries](MainBattery) (mass 5)

@@ -29,4 +29,9 @@ Exiting FTL Space
 
 Entry point, deviation, and damage.
 
+Non-FTL Ships
+-------------
+
+Some ships do not mount an FTL drive, such as in-system "slow boat" freighters as well as system defense cruisers and orbital monitors. With the extra space available these ships can be fitted with 75% of their total mass in shipboard systems or 60% in [hangar bays](HangarBay) and [cargo space](CargoSpace), instead of the normal limits of 50% and 40%.
+
 *[FTL]: Faster Than Light
