@@ -1,14 +1,22 @@
 Introduction
 ------------
 
-_Full Thrust_ is a sci-fi wargaming rule system with simple procedures for designing balanced starships and conducting various space combat and operation scenarios. Players design their starships and compose fleets, then test their capabilities in gameplay scenarios. Review the [ship design rules](ShipDesignProcess) to get a feel for what kinds of starships you can field.
+_Full Thrust_ is a sci-fi wargaming rule system with simple procedures for designing balanced starships and conducting various space combat and operation scenarios. Players design their starships and compose fleets, then test their capabilities in gameplay scenarios.
 
-### Gameplay
+Ship Design
+-----------
 
-The game is played on a flat surface a few feet to a side and ships can move and interact with each other based on a [standard unit of measurement](RangeAndBearing) (typically inches). The outcomes of various decisions (especialy firing weapons if in a combat scenario) are determined by rolling and reading six-sided dice (or "D6")---typically either "[beam dice](BeamDice)" or "[projectile dice](ProjectileDice)" depending on the situation.
+Constructing a ship follows some fast and simple design rules: you choose the size of hull you want to work with, then proceed to cram as much _space stuff_ as you can inside it. See the [ship design rules](ShipDesignProcess) for details.
+
+Gameplay
+--------
+
+The game is played on a flat surface where distances are measured freehand. Using a hex grid is possible if desired but underdeveloped at this time. Many actions are resolved by rolling a number of six-sided dice (or "D6") and reading the results. See the [gameplay rules](Gameplay) for details.
 
 External Links
 --------------
+
+The following links have been useful during the development of this design system or as semi-related curiosities.
 
 * [AnyDice](https://anydice.com/)
 * [Attack Vector](http://web.archive.org/web/20010613071537/www.io.com/~desantom/AttVec/ATTVEC.HTM)
