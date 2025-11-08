@@ -36,14 +36,14 @@
   width: 3em;
 }
 
-.advanced-battery--class-1 {
-  background-image: url('advanced-battery-class-1.svg');
+.advanced-battery--close-range {
+  background-image: url('advanced-battery-close-range.svg');
 }
 
-.advanced-battery--class-2 {
-  background-image: url('advanced-battery-class-2.svg');
+.advanced-battery--medium-range {
+  background-image: url('advanced-battery-medium-range.svg');
 }
 
-.advanced-battery--class-3 {
-  background-image: url('advanced-battery-class-3.svg');
+.advanced-battery--long-range {
+  background-image: url('advanced-battery-long-range.svg');
 }
