@@ -71,3 +71,14 @@ Advanced screens reduce the chance of taking double damage from a [railgun](Rail
 | Class 2        | **Two** points   | **Four** points
 | Class 3        | **Three** points | **Six** points
 | Class 4        | **Four** points  | **Eight** points
+
+Relative Tech Level
+-------------------
+
+Advanced screens are meant to represent a major technological development in defense against conventional (and advanced) weapons; namely the explosive damage from torpedoes and missiles, and the kinetic penetrating damage of railguns, which normally "punch through" standard defensive screening technology.
+
+There is no "super advanced" weapons technology represented in these rules that can in turn defeat advanced screens. If technology in the chosen background reaches such a point, it is suggested to readjust the relative technology available. For instance, militaries with advanced screens are downgraded to standard screens; ships that would have standard screens now don't mount any at all (the tech is ubiquitous but also obsolete); and explosives and kinetics that used to be stopped only by advanced screens are now standard batteries.
+
+The rules are meant to represent the ever-evolving nature of research and development in warfare by facilitating an ever-shifting window of aging, current, and advanced technology.
+
+See [Red Queen Theory - Wikipedia](https://en.wikipedia.org/wiki/Red_Queen_hypothesis)
