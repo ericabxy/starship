@@ -25,4 +25,4 @@ Relevant Documents
 - [Beam Dice](BeamDice)
 - [Projectile Dice](ProjectileDice)
 - [Range and Bearing](RangeAndBearing)
-- Torpedo Dice
+- [Pulse Dice](PulseDice)
