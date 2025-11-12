@@ -15,3 +15,8 @@ Velocity
 All ships have a current velocity indicated by a secondary marker on the board. The marker is always placed at the ship's _previous_ position on the board, and indicates the direction and distance it's inertia is currently carrying it.
 
 When it comes time for a ship to move according to its velocity (after all maneuvers have been made), it MUST be moved away from its velocity marker along a line intersecting both the velocity marker and the ship's current position, to a distance equal to the current distance between the velocity marker and the ship. Then the velocity mark must be moved to the ship's previous location to continue indicating its current velocity.
+
+External Links
+--------------
+
+[Playing Full Thrust on Hexes](https://www.lightsmith.info/warfare/fullthrust/articles.html#fthexes)
