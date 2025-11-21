@@ -8,7 +8,7 @@ categories:
 Main Battery
 ------------
 
-This system represents a ship's principle offensive weaponry; the standard ship-to-ship weapons of whatever fiction the ship lives in. A single battery can represent several mounted barrels, emitters, or turrets working in tandem; or a single turreted weapon with one or more barrels/projectors. It is less effective at long range due to accuracy of firing solutions, spread of the individual projectiles/rays, etc. It can be partially countered by expensive [defense technology](ScreenGenerator) that can absorb, disrupt, or deflect incoming missiles/beams.
+This system represents a ship's principle offensive weaponry; the standard ship-to-ship weapons of whatever fiction the ship lives in. A single battery can represent several mounted barrels, emitters, or turrets working in tandem; or a single turreted weapon with one or more barrels/projectors. It is less effective at long range due to accuracy of firing solutions, spread of the individual projectiles/rays, etc.
 
 Symbols:
 ![](assets/main-battery-class-2-fs-three-arc.svg)
@@ -22,13 +22,12 @@ See [Range and Bearing](RangeAndBearing) for details on how to find direction an
 
 To determine the effect of firing on a target, a number of dice are rolled depending on range. Class-3 batteries have a maximum range of 36&Prime;. When firing at a range of 0-12&Prime;, three dice are rolled; at 12-24&prime;, two dice; and at 24-36&Prime;, one die. The following table shows the number of dice to roll indexed by battery class and range to target.
 
-|              | **0-12″**    | **12-24″**   | **24-36″**   | **36-48″** | **48-60″**
-| ------------ | :-------:    | :--------:   | :--------:   | :--------: | :--------:
-| **Class-1**  | **ONE** D6   | ---          | ---          | ---        | ---
-| **Class-2**  | **TWO** D6   | **ONE** D6   | ---          | ---        | ---
-| **Class-3**  | **THREE** D6 | **TWO** D6   | **ONE** D6   | ---        | ---
-| **Class-4**  | **FOUR** D6  | **THREE** D6 | **TWO** D6   | **ONE** D6 | ---
-| **Class-5**  | **FIVE** D6  | **FOUR** D6  | **THREE** D6 | **TWO** D6 | **ONE** D6
+|              | **0-12″**    | **12-24″**   | **24-36″**   | **36-48″**
+| ------------ | :-------:    | :--------:   | :--------:   | :--------:
+| **Class-1**  | **ONE** D6   | ---          | ---          | ---
+| **Class-2**  | **TWO** D6   | **ONE** D6   | ---          | ---
+| **Class-3**  | **THREE** D6 | **TWO** D6   | **ONE** D6   | ---
+| **Class-4**  | **FOUR** D6  | **THREE** D6 | **TWO** D6   | **ONE** D6
 
 Unscreened Damage
 -----------------
@@ -54,29 +53,11 @@ Class-1 beam batteries can be fired in defense against approaching small craft a
 
 1D6 is rolled as normal, but only one hit is scored on a roll of **5** or **6** (as if being affected by level-2 screens).
 
-Class-2 Needle Mode (experimental)
-----------------------------------
-
-At a range of 9&Prime;, a Class-2 battery can target and knock out a ship's systems. This requires the dedicated use of a [FireCon](FireControlSystem), and to determine the effect roll *one D6*.
-
-**Needle Mode Effects:**
-
-| Roll results | Effect
-| ------------ | ------
-| 1-3          | No effect
-| 4-5          | One damage point
-| 6            | One damage point AND target system knocked-out
-
-Penetrating Damage
-------------------
-
-Ships using these design rules tend to have far fewer hull boxes than the revised rules (see Fleet Book 1), so standard batteries do **not** re-roll sixes to deal extra damage in this game.
-
 Design Procedure
 ----------------
 
-|               | Bearing          | Mass | Cost
-| ------------- | -------          | :--: | ----
+| Battery       | Bearing          | Mass | Cost
+| ------------- | ---------------- | :--: | ----
 | _Class-1_
 |               | 360&deg; (6-arc) | 1    | 3 points
 | _Class-2_
@@ -89,13 +70,19 @@ Design Procedure
 | _Class-4_
 |               |  60&deg; (1-arc) | 5    | 15 points
 |               | 120&deg; (2-arc) | 8    | 24 points
-| _Class-5_
-|               |  60&deg; (1-arc) | 8    | 24 points
 
 Lore
 ----
 
-The main battery in these documents represents whatever ship-to-ship weaponry is extant in the fiction the vessel lives in. It could be a directed-energy weapon or a particle accelerator---like a _laser beam_, a _phaser beam_, or a _particle beam_. It could be something more mundane like _high-velocity projectiles_ or other _ballistic missiles_.
+The nature of the main battery must conform with the basic rules: its a barrage of *something* that hits roughly 50% of the time, and damage can be reduced by defensive systems mounted on the target. This lends itself to the concept of _laser beams_, _phaser beams_, and _particle beams_, but it doesn't rule out _high-velocity projectiles_ or other _ballistic missiles_.
+
+_Laser and Blaster Beams:_ Energy beams fired upon the target in volleys or a continuous beam over the course of a turn. Defensive systems are energy shields that absorb, deflect, or dissipate the incoming beams. The shields can be overloaded by especially direct shots allowing some damage through.
+
+_Phaser and Particle Beams:_ Hyper-accelerated particles fired toward the target in volleys or beams. Defensive systems can be energy shields or magnetic fields that dissipate the incoming particles, lessening the chance of damage.
+
+_High-velocity Projectiles and Ballistic Missiles:_ Gun barrels or launch tubes fire volleys of penetrating slugs or small rockets. Defensive systems are likely some form of active armor or laser-based point interceptors that physically deflect or vaporize some of the incoming weapons.
+
+You can optionally rule that screen generators simply don't exist in your setting and require ships to use some kind of [ablative armor](AblativeArmor), or even trade standard batteries for ships with only [torpedo systems](TorpedoSystem) creating a different flavour of sci-fi.
 
 External Links
 --------------
