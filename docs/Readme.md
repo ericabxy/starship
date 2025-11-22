@@ -1,11 +1,25 @@
-This is a space ship design system based on the tabletop wargame _Full Thrust_. Simple procedures are defined for designing balanced starships and conducting operations in space.
+Welcome to the starship design system
+-------------------------------------
 
-Ship Design
+The Starship Design System is a collection of rules based on _Full Thrust_ allowing for fast and simple ship construction and gameplay challenge.
+
+Hull Design
 -----------
 
-Constructing a ship follows fast and simple design rules. See the [ship design process](ShipDesignProcess) for details, [ship designs](Categories#ship-designs) for examples, or you may be looking for a list of [ship systems](Categories#ship-systems) available for fitting.
+Construction starts with choosing the [size of hull](HullDesign) you want to work with. This helps determine the overall cost of construction and gives you a total volume of mass available for fitting ship systems.
 
-Gameplay
---------
+### Normal Space Drive
 
-The game is played on a flat surface where distances are measured freehand. Using a hex grid is possible if desired but underdeveloped at this time. Many actions are resolved by rolling a number of six-sided dice (or "D6") and reading the results. See the [gameplay rules](Gameplay) for details.
+The [normal space drive](NormalSpaceDrive) is a vessel's primary means of propulsion.
+
+### Main Battery
+
+Warships have a complement of [main batteries](MainBattery) for ship-to-ship combat.
+
+### Faster-than-light Drive
+
+For interstellar travel, ships can be fitted with a [faster-than-light drive](FasterThanLightDrive) system allowing entry into jump space or hyperspace.
+
+### Screen Generator
+
+Ships with enough mass to spare can be fitted with [defensive screening](ScreenGenerator) systems that deflect and dampen incoming fire.
