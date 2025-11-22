@@ -6,3 +6,22 @@ repository: ericabxy/starship-design-system
 remote_theme: pages-themes/hacker@v0.2.0
 plugins:
 - jekyll-remote-theme
+
+collections:
+  advanced_systems:
+    output: true
+  advanced_rules:
+    output: true
+  basic_rules:
+    output: true
+  more_rules:
+    output: true
+  ship_designs:
+    output: true
+
+defaults:
+  -
+    scope:
+      path: ''
+    values:
+      layout: 'default'
