@@ -1,4 +1,4 @@
-<table>
+<table role='navigation'>
   <tr>
     <th colspan='2'>Ship Design Navigation Table</th>
   </tr>

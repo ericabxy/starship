@@ -47,9 +47,10 @@ As ships have limited thrust and no maximum speed, velocity can easily move a sh
 
 If needed, one six-sided die ca be rolled to determine whether the ship can actually find its way back.
 
-| On a roll of...
-| 1, 2, or 3 | The ship may NOT return to play during this scenario
-| 4, 5, or 6 | The ship may re-enter the table after this many turns
+| On a roll of... | Result
+| ---
+| 1, 2, or 3 | The ship may NOT return to play during this scenario.
+| 4, 5, or 6 | The ship may re-enter the table after this many turns.
 
 A ship that manages to return will re-enter play from the same side of the table as it left, at any point along that table edge.
 
