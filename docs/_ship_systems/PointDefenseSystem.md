@@ -1,7 +1,8 @@
 ---
 title: Point Defense System
 categories:
-- ship system
+- basic design
+- advanced rules
 ---
 
 <span style='float:right;'>![Rocket ship attacking multiple foes.](/assets/217866.png)</span>
@@ -12,7 +13,7 @@ Point Defense System
 A point defense system (PDS) is an array of short-range weapons designed to target fast-moving, lightly-armored craft like fighters and missiles.
 
 Symbols:
-![](/assets/point-defense-system.svg)
+![Circle enclosing diagonal crossed lines.](/assets/point-defense-system.svg)
 
 Rolling To Hit
 --------------

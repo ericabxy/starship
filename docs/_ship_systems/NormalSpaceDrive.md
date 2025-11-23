@@ -1,7 +1,9 @@
 ---
 title: Normal Space Drive
 categories:
-- ship system
+- basic design
+- core rules
+- general
 ---
 
 <span style='float:right;'>![Rocket ship applying thrust.](/assets/286962.png)</span>
@@ -14,7 +16,7 @@ A ship's "normal space" drive system accelerates it to combat speeds and allows 
 During the movement phase, the normal drive can accelerate the ship forward any number of units at a cost of one thrust per 1&Prime;. The ship can also spend one thrust to rotate the ship to any clock face heading. Finally, one thrust can be spent to "push" the ship sideways exactly 1&Prime; and backward exactly 1&Prime;, but no more than that. Every thrust spent comes out of the total thrust available in the turn, which cannot be exceeded.
 
 Symbols:
-![](/assets/normal-space-drive-thrust-8.svg)
+![House-shaped pentagon enclosing a numeral 8.](/assets/normal-space-drive-thrust-8.svg)
 
 Design Procedure
 ----------------

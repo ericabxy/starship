@@ -1,6 +1,8 @@
 ---
+title: Screen Generator
 categories:
-- ship system
+- basic design
+- core rules
 ---
 
 Screen Generator
@@ -9,9 +11,9 @@ Screen Generator
 Screens are electromagnetic field generators used to disrupt and dissipate incoming [main battery](MainBattery) fire. Active screens reduce the damage scored by each die rolled.
 
 Symbols:
-![](/assets/screen-generator.svg)
+![Filled circle below two arcs facing forward.](/assets/screen-generator.svg)
 
-**Beam battery damage against defensive screens:**
+### Table: Defensive Screen Effects
 
 | Result     | Level-1 Screens       | Level-2 Screens
 | ---------- | --------------------- | ---------------

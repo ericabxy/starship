@@ -1,7 +1,9 @@
 ---
 title: Submunitions
 categories:
-- ship system
+- advanced design
+- advanced rules
+- weapon
 ---
 
 Submunitions
@@ -10,7 +12,7 @@ Submunitions
 A submunition system is a one-shot package of short-range missiles, designed to pack a punch at a lower cost than heavier multi-use weapon systems.
 
 Symbols:
-![](/assets/submunitions-pack.svg)
+![Empty circle centered on the point of a filled triangle.](/assets/submunitions-pack.svg)
 
 Firing submunitions generates damage by rolling a number of dice depending on range to target.
 

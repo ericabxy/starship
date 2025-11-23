@@ -1,7 +1,9 @@
 ---
 title: Advanced Screen
 categories:
-- ship system
+- expermental design
+- dimensions rules
+- general
 ---
 
 Advanced Screens

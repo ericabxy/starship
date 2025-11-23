@@ -1,6 +1,8 @@
 ---
 categories:
-- ship system
+- experimental design
+- experimental rules
+- weapon
 ---
 
 Megabattery

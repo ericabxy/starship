@@ -1,7 +1,9 @@
 ---
 title: Advanced Fire Control
 categories:
-- ship system
+- experimental design
+- continuum rules
+- general
 ---
 
 Advanced Fire Control

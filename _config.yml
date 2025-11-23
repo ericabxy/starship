@@ -22,6 +22,9 @@ collections:
   ship_designs:
     output: true
     permalink: /:title
+  ship_systems:
+    output: true
+    permalink: /:title
 
 defaults:
   -
@@ -29,3 +32,9 @@ defaults:
       path: ''
     values:
       layout: 'default'
+  -
+    scope:
+      path: ''
+      type: 'ship_systems'
+    values:
+      layout: ship-system

@@ -1,7 +1,9 @@
 ---
 title: Advanced Battery
 categories:
-- ship system
+- experimental design
+- experimental rules
+- weapon
 ---
 
 Advanced Battery

@@ -1,7 +1,8 @@
 ---
 title: Needle System
 categories:
-- ship system
+- advanced design
+- advanced rules
 ---
 
 Needle System
@@ -12,7 +13,7 @@ A needle system is a short-range weapons array capable of tightly-focused, accur
 Targeting a system on an enemy ship requires one [FireCon](FireControlSystem), which can't be used to fire other non-needle systems this turn. It CAN however be used to fire other needles at the SAME target system this turn.
 
 Symbols:
-![](/assets/needle-system.svg)
+![Filled circle with a long line pointing forward.](/assets/needle-system.svg)
 
 Range and Rolling To Hit
 ------------------------
@@ -34,18 +35,12 @@ Multi-arc Needle System (experimental)
 
 At extra mass and cost a needle system can be fitted to fire through up to 180 degrees of arc.
 
-<div class='ship-diagram'>
-  <div class='needle-system needle-system--3-arc'>
-  </div>
-</div>
+![Filled circle with two long lines pointing forward.](/assets/needle-system.svg)
 
 Heavy Needle System (experimental)
 -------------------
 
-<div class='ship-diagram'>
-  <div class='needle-system needle-system--heavy'>
-  </div>
-</div>
+![Filled circle with three long lines pointing 10, 12, and 2 o'clock.](/assets/needle-system.svg)
 
 Design Procedure
 ----------------

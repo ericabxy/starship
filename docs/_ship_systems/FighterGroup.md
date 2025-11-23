@@ -1,7 +1,9 @@
 ---
 title: Fighter Group
 categories:
-- ship system
+- basic design
+- advanced rules
+- fighter
 ---
 
 <span style='float:right;'>![Small spaceships approaching.](/assets/325320.png)</span>
@@ -12,7 +14,7 @@ Fighter Group
 Fighters are small, fast craft typically launched by carriers to attack enemy ships at range. After launch they move about the battlefield to pursue targets and make attack runs. A fighter group is represented by six individual craft in these rules, but this can represent any number of individual craft depending on what background you're using. For instance Battlestar Galactica's complement of 150 fighter craft are reasonably represented by two or three fighter groups---one each for Blue Squadron, Red Squadron, and Silver Spar Squadron.
 
 Symbols:
-![](/assets/fighter-group.svg)
+![Isoceles triangle enclosing a filled circle.](/assets/fighter-group.svg)
 
 Each fighter rolls for damage much like a Class-1 [battery](MainBattery), but the roll represents a comprehensive load-out, defense systems, and maneuver power that must be replenished after a time with additional fuel, munitions, and repairs to presumably damaged or worn-out systems. For example the Rebel fleet sent out several wings of fighters against the Death Star, but during battle they expended supplies of proton torpedoes and several craft lost their deflector shields, droid computers, and even flight controls.
 

@@ -1,8 +1,9 @@
 ---
 title: Faster Than Light Drive
 categories:
-- ship system
-- basic rules
+- basic design
+- advanced rules
+- general
 ---
 
 <span style='float:right;'>![Painting of spacecraft with stars moving by quickly.](/assets/Warp_drive_starship.png)</span>
@@ -13,7 +14,7 @@ Faster Than Light Drive
 An FTL system represents the standard form of superlight transportation technology. Faster-than-light travel is by default disallowed in combat scenarios, but except under certain circumstances all warships must equip this subsystem. It is assumed that battles take place after combatants have arrived under FTL power, so any ships without it would not be part of a combat fleet.
 
 Symbols:
-![](/assets/faster-than-light-drive.svg)
+![Square enclosing a wavy line.](/assets/faster-than-light-drive.svg)
 
 Entering FTL Space
 ------------------

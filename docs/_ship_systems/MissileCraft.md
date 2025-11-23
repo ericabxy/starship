@@ -1,7 +1,8 @@
 ---
+title: Missile System
 categories:
-- ship system
-- more rules
+- experimental rules
+- weapon
 ---
 
 Missile Craft

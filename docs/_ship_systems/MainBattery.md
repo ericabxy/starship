@@ -1,7 +1,9 @@
 ---
 title: Main Battery
 categories:
-- ship system
+- basic design
+- core rules
+- weapon
 ---
 
 <span style='float:right;'>![Concept art of turreted laser weapon.](/assets/DD-ST-86-06617.jpeg)</span>
@@ -12,9 +14,9 @@ Main Battery
 This system represents a ship's principle offensive weaponry; the standard ship-to-ship weapons of whatever fiction the ship lives in. A single battery can represent several mounted barrels, emitters, or turrets working in tandem; or a single turreted weapon with one or more barrels/projectors. It is less effective at long range due to accuracy of firing solutions, spread of the individual projectiles/rays, etc.
 
 Symbols:
-![](/assets/main-battery-class-2-fs-three-arc.svg)
-![](/assets/main-battery-class-3-fwd-arc.svg)
-![](/assets/main-battery-class-1-all-arc.svg)
+![Circle enclosing a numeral 2 with tick marks pointing 10, 12, and 2 o'clock.](/assets/main-battery-class-2-fs-three-arc.svg)
+![Circle enclosing a numeral 3 with a tick mark pointing 12 o'clock.](/assets/main-battery-class-3-fwd-arc.svg)
+![Circle enclosing a numeral 1 with tick marks pointing 2, 4, 6, 8, 10, and 12 o'clock.](/assets/main-battery-class-1-all-arc.svg)
 
 Rolling To Hit
 --------------

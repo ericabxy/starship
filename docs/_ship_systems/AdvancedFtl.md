@@ -1,11 +1,16 @@
 ---
 title: Advanced FTL
 categories:
-- ship system
+- experimental design
+- dimensions rules
+- general
 ---
 
 Advanced Faster-than-light Drive Systems
 ----------------------------------------
+
+Symbols:
+![Hexagon enclosing a wavy line.](/assets/advanced-ftl.svg)
 
 Some FTL technology is advanced to the point that ships using it do not suffer failure due to proximity to massive objects. A ship with advanced FTL behaves exactly as a ship with a standard [FTL system](FasterThanLightDrive), but when engaging FTL space during gameplay does not roll to determine drive failure; it simply disappears from the table successfully at the mid-point of its movement. Similarly, when entering the table from FTL flight, it arrives exactly at its planned entry point without rolling to determine deviation, and causes no ill effects from proximity to other objects (unless of course it proceeds to collide with something like an asteroid once in normal space).
 

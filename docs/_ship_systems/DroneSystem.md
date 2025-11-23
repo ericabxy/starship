@@ -1,7 +1,9 @@
 ---
 title: Drone System
 categories:
-- ship system
+- advanced design
+- advanced rules
+- weapon
 ---
 
 Drone System

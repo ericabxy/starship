@@ -1,7 +1,9 @@
 ---
 title: Railgun System
 categories:
-- ship system
+- experimental design
+- experimental rules
+- weapon
 ---
 
 Railgun System
